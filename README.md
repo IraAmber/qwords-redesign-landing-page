@@ -49,7 +49,7 @@ Qwords Redesign is a Qwords landing page redesign contains information about hos
 ### How to run
   - React
 ```
-npm run watch
+npm run dev
 ```
 
 ## Social
